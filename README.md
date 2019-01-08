@@ -13,3 +13,4 @@ You must compile and execute the java files contained in the folder named "Langt
 - In the 'commands' plane you can find controls that allow you to start and pause the simulation, and also to clear the state of the board. You can set the frame rate of the simulation too (even during the execution). With the mouse wheel it's also possible to zoom in/out the board, and dragging you can perform panning.
 
 Therefore, has been implemented also the extra feature of multiple colors: changing the scheme field with more than two L/R chars, colors are updated as the ant moves.
+It's also available a javadoc documentation inside the classes.

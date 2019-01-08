@@ -5,7 +5,7 @@ The folder "payroll project" contains the written report for the exam project.
 The folder "Langton's ant" contains the java code for the programming assignment (option #3).
 
 
---------------- Langton's ant running instructions ---------------
+############### Langton's ant - how to run ###############
 
 You must compile and execute the java files contained in the folder named "Langton's ant".
 - In the 'inputs' panel you can find width, height and scheme parameters, and you can set them. Width and height represent the size of the plane (number of cells that form the matrix plane).
